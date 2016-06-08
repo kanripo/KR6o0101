@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:54.703506
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 起信論疏
 #+PROPERTY: CBETA_ID T44n1844
 #+PROPERTY: ID KR6o0101
