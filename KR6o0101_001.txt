@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:55.235121
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 起信論疏
 #+PROPERTY: CBETA_ID T44n1844
 #+PROPERTY: ID KR6o0101
@@ -12,7 +12,7 @@
 ¶
 No. 1844 [cf. No. 1666]¶
 
-起信論海東疏刊行序¶
+* 起信論海東疏刊行序¶
 ¶
 
 釋於大乘起信論之疏。振古凡有三品。曰法¶
